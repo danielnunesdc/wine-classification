@@ -29,7 +29,7 @@ Se quiser contribuir para esse repositório, seja corrigindo algum problema, adi
 - Faça as alterações necessárias no código ou documentação;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-alteracao`;
-- Agora é só abrir a sua Pull Request;
+- Agora é só abrir seu Pull Request;
 
 Licença 
 =======
