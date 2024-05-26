@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT. Para mais detalhes acesse [LICENSE](LICEN
 
 ---
 
-Feito com ♥ by Daniel Nunes :wave: [Twitter](https://twitter.com/danielnunesdc)
+Feito com ♥ by Daniel Nunes :wave:
